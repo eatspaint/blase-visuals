@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/blase-visuals/static/js/main.009c4a9f.chunk.js",
+    "main.js.map": "/blase-visuals/static/js/main.009c4a9f.chunk.js.map",
+    "runtime-main.js": "/blase-visuals/static/js/runtime-main.ad417597.js",
+    "runtime-main.js.map": "/blase-visuals/static/js/runtime-main.ad417597.js.map",
+    "static/css/2.764ccc25.chunk.css": "/blase-visuals/static/css/2.764ccc25.chunk.css",
+    "static/js/2.c033a896.chunk.js": "/blase-visuals/static/js/2.c033a896.chunk.js",
+    "static/js/2.c033a896.chunk.js.map": "/blase-visuals/static/js/2.c033a896.chunk.js.map",
+    "index.html": "/blase-visuals/index.html",
+    "precache-manifest.d20670b8d83f92e006808769b7594fc5.js": "/blase-visuals/precache-manifest.d20670b8d83f92e006808769b7594fc5.js",
+    "service-worker.js": "/blase-visuals/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/blase-visuals/static/css/2.764ccc25.chunk.css.map",
+    "static/js/2.c033a896.chunk.js.LICENSE": "/blase-visuals/static/js/2.c033a896.chunk.js.LICENSE",
+    "static/media/PressStart2P-Regular.ttf": "/blase-visuals/static/media/PressStart2P-Regular.2c404fd0.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad417597.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.c033a896.chunk.js",
+    "static/js/main.009c4a9f.chunk.js"
+  ]
+}
